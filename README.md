@@ -1,7 +1,7 @@
-# Week {Number}: {Project Title}
+# Week  01: My portfolio
 
 ## Author
-- **Name:** Your Full Name
+- **Name:** Mark Mwangi
 - **GitHub:** [@mwwas12345spec](https://github.com/mwas12345spec)
 - **Date:** 02 /11/2026
 
@@ -30,4 +30,4 @@ the project   is a portfolio as a programmer
 ![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://https://mwas12345spec.github.io/mark12/)
