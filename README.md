@@ -27,4 +27,4 @@ the project   is a portfolio as a programmer
  the chaalenge is that when i deploy it using github   it gave a response of page not found
 
 ## Live Demo (if deployed)
-[View Live Demo](https://https:// https://https://mwas12345spec.github.io/iyf-s10-week-01-mwas12345spec/)
+[View Live Demo](https://mwas12345spec.github.io/iyf-s10-week-01-mwas12345spec/)
